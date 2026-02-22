@@ -6,6 +6,9 @@
       "eas": {
         "projectId": "c8b93b9c-cdd7-416c-835f-0c16c2b3e9a3"
       }
+    },
+    "android": {
+      "package": "com.sknayaz55.web"
     }
   }
 }
