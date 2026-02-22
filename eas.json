@@ -15,8 +15,9 @@
       },
       "env": {
         "NPM_CONFIG_LEGACY_PEER_DEPS": "true",
-        "EXPO_PUBLIC_SUPABASE_URL": "ttps://cevpihjfaznlnexzzasr.supabase.co",
+        "EXPO_PUBLIC_SUPABASE_URL": "https://cevpihjfaznlnexzzasr.supabase.co",
         "EXPO_PUBLIC_SUPABASE_ANON_KEY": "sb_publishable_R05dK5nt6feJoNHvtPC1aw_L9PNc8yF"
+      }
     },
     "production": {
       "autoIncrement": true
