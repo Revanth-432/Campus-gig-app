@@ -35,7 +35,7 @@ CampusGig is a real-time, cross-platform gig economy app designed to connect stu
 ## 📦 Installation & Usage
 
 ### 📱 Mobile (Android)
-1. Download the APK from our [Latest EAS Build](https://expo.dev/accounts/sknayaz55/projects/web/builds/805a4b0f-efe6-4fb8-86ce-6c78e9622103).
+1. Download the APK from our [Latest EAS Build](https://expo.dev/accounts/sknayaz55/projects/web/builds/f7080f66-349f-410a-ab7c-8a1a88600564).
 2. Allow **"Install from Unknown Sources"** on your device.
 3. Launch **CampusGig** and log in with your credentials.
 
